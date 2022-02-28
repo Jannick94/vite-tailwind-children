@@ -1,6 +1,6 @@
 ### Instructions
-Run `npm i` to install the packages
-Run `npm run dev` afterwards to start the dev server, go to the URL which this command outputs.
+- Run `npm i` to install the packages
+- Run `npm run dev` afterwards to start the dev server, go to the URL which this command outputs.
 
 Everything should be working fine now, you should see a simple webpage with red box with 'Content' in it.
 
